@@ -1,0 +1,2809 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hola whats up hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hi hello hello"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning hello hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hola sup"
+      },
+      {
+        "intent": "greet",
+        "text": "good night are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy how is it going hey"
+      },
+      {
+        "intent": "greet",
+        "text": "how are you hola howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "hola good night hello"
+      },
+      {
+        "intent": "greet",
+        "text": "whats up howdy howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "sup good day"
+      },
+      {
+        "intent": "greet",
+        "text": "hola howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "good night hola hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hola greetings hello"
+      },
+      {
+        "intent": "greet",
+        "text": "are you around whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "whats up howdy hola"
+      },
+      {
+        "intent": "greet",
+        "text": "hello whats up howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "how are you hello hey"
+      },
+      {
+        "intent": "greet",
+        "text": "whats up whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy whats up hi"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon hola"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning hello hello"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good night hey hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hey are you there hola"
+      },
+      {
+        "intent": "greet",
+        "text": "are you around? hello hi"
+      },
+      {
+        "intent": "greet",
+        "text": "whatsup are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon hi hola"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy good morning hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hello hi hello"
+      },
+      {
+        "intent": "greet",
+        "text": "whats up whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning hi hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good day howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings howdy hi"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "hola hey hello"
+      },
+      {
+        "intent": "greet",
+        "text": "are you there hey hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hola whatsup howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "morning hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "good day whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "how is it going hi howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy greetings hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hola hey hi"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning hola hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hello how are things going hello"
+      },
+      {
+        "intent": "greet",
+        "text": "sup are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "good night hi howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "hello morning hi"
+      },
+      {
+        "intent": "greet",
+        "text": "sup hi hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hola good night hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello howdy hola"
+      },
+      {
+        "intent": "greet",
+        "text": "are you around? howdy hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hey are you around hola"
+      },
+      {
+        "intent": "greet",
+        "text": "are you around how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hola whatsup hey"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy hey hello"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy good morning hello"
+      },
+      {
+        "intent": "greet",
+        "text": "whats up hello hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hola how are things going hello"
+      },
+      {
+        "intent": "greet",
+        "text": "how are things going hello hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hi how is it going howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning howdy hello"
+      },
+      {
+        "intent": "greet",
+        "text": "how are things going good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "whatsup hi hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hey how is it going hola"
+      },
+      {
+        "intent": "greet",
+        "text": "hola how are you hola"
+      },
+      {
+        "intent": "greet",
+        "text": "are you around? howdy hello"
+      },
+      {
+        "intent": "greet",
+        "text": "are you around morning"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings hi hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good day howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "sup good afternoon"
+      },
+      {
+        "intent": "greet",
+        "text": "how are you doing hi hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hey sup hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hola how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "good day hey hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello hey howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy sup"
+      },
+      {
+        "intent": "greet",
+        "text": "good day hey hola"
+      },
+      {
+        "intent": "greet",
+        "text": "are you around whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hola good afternoon"
+      },
+      {
+        "intent": "greet",
+        "text": "are you there hey hola"
+      },
+      {
+        "intent": "greet",
+        "text": "hey whats up hola"
+      },
+      {
+        "intent": "greet",
+        "text": "whatsup hey hola"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings good night"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings hey howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "sup are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "sup hello hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hola are you there hola"
+      },
+      {
+        "intent": "greet",
+        "text": "hello hello"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings hello hello"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "whatsup hi hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hi how are you doing hello"
+      },
+      {
+        "intent": "greet",
+        "text": "morning hello hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hi hello hi"
+      },
+      {
+        "intent": "greet",
+        "text": "are you there hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings hey"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings morning"
+      },
+      {
+        "intent": "bye",
+        "text": "going out bye chao gtg have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "going out adios adieu adieu"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go adieu adios chao im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving adios adieu ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "chao bye goodbye talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go bye adieu chau leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now chao bye chau talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now adios adios farewell going out"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now gtg adieu chao talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon goodbye adieu adieu heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "going out bye farewell going out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon goodbye adios adieu im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out bye farewell adieu going out"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out goodbye chau adieu"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go bye ttyl farewell talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go adios gtg bye going out"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go chao gtg adios have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later goodbye chao farewell got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "chau chao adieu got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now bye ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chao farewell adieu have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "farewell chau goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chau ttyl chau have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "adieu ttyl goodbye talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving chau goodbye bye heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later farewell gtg have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving goodbye adios adios"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving adieu chao goodbye going out"
+      },
+      {
+        "intent": "bye",
+        "text": "going out chau adios adieu talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now chao ttyl goodbye going out"
+      },
+      {
+        "intent": "bye",
+        "text": "chao farewell chau talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now adios goodbye gtg heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon bye adieu chau im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon goodbye ttyl talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go ttyl chao farewell have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon ttyl chao chao going out"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now gtg adieu chao heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "chao bye ttyl leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out bye bye ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go ttyl adios"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go gtg goodbye adios leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now gtg adios goodbye im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon adios goodbye ttyl leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out gtg goodbye bye"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go goodbye chau gtg leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later goodbye adios im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon adios gtg ttyl talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go ttyl chau gtg im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go farewell bye gtg"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go bye gtg heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chau goodbye adieu heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "going out ttyl farewell adios talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "going out farewell ttyl chao heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon goodbye chau ttyl talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out adieu gtg im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out adieu ttyl bye going out"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving adios chau goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now gtg adios got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "chao chao adieu im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "going out goodbye farewell goodbye heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "gtg bye got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving adios adios ttyl going out"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now chao gtg adios have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving ttyl adios gtg going out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chau gtg gtg going out"
+      },
+      {
+        "intent": "bye",
+        "text": "going out farewell bye bye talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now adieu bye adios got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later adios chau bye talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "going out ttyl goodbye adieu heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon chau chao bye leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving adieu goodbye chao talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go goodbye goodbye chao got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now ttyl bye chao"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go adios adios goodbye talk to you later"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later ttyl goodbye adios have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out chao ttyl chao"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out chau chao chao im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later ttyl chau chau"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go goodbye bye adios im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "adieu chao chao"
+      },
+      {
+        "intent": "bye",
+        "text": "adios adios farewell leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go adieu adieu heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now goodbye chao adieu"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go adieu goodbye got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving chau adieu talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go ttyl adios chau going out"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out goodbye ttyl adieu im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving gtg gtg heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "farewell ttyl goodbye going out"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later adieu chao farewell have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon farewell gtg chao leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out chau farewell adios heading out"
+      },
+      {
+        "intent": "bye",
+        "text": "chau chao chau have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "goodbye adios chao talk to you soon"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go gtg adieu gtg leaving"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving goodbye ttyl ttyl im leaving now"
+      },
+      {
+        "intent": "bye",
+        "text": "going out chao bye have to go"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon goodbye chao bye going out"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go adieu chao gtg got to go"
+      },
+      {
+        "intent": "bye",
+        "text": "going out adios goodbye chau going out"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right yes to that correcto yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that allright right yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes correct affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir correcto yep correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative affirmative affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto correcto affirmative correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct yes affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "si yep right yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right affirmative si correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that yep yes sir right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right right right allright"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right affirmative yep right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "si yep correct correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright yes yep yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yep affirmative ok"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right correcto yep yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto right ok right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto right correct yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative right allright yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep right yes ok"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that yep si allright"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right right right right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright allright yes to that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright allright correcto right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok is good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct yes affirmative allright"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes yes to that yep correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right correct correct yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright allright yes sir si"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto yep correct ok"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep affirmative yes yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct ok ok yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto affirmative right right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok right ok ok"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir yes correct yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right yes sir yes right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that yes sir right yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok ok right right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright yes to that right right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto yes correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir yes sir yes sir correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct yes sir yep yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir yes sir yes sir correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes si allright yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative allright ok correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct ok yes to that correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright affirmative si correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "si correcto yes right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep affirmative correct yes to that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok correcto allright affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct si yep correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes yes ok right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok yes to that affirmative yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that yes to that yep yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes yes to that si correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok allright correct yes to that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "si right yes yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes allright affirmative correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto right right allright"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that yep affirmative yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright yep yep right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright yes to that right affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that ok right yes to that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that correcto right si"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right si yep affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep correcto correct right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright allright right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "si yes to that yep affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto correcto si correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok right yes allright"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right ok yep right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative si correct ok"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir allright correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright affirmative right yes to that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "allright si si right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct yep ok yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right yep yes sir yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that ok right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir yes correcto yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes affirmative yep yes to that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes correct yes to that right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep correcto si"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes si yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right right yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep si yes sir allright"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto correcto affirmative affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right yes correcto correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yes correcto yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep right yes sir yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correcto si yes to that right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir yes sir correct yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "ok right affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes to that right correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative right allright yes to that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right correct correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative ok correct ok"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right yep yes yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct right yes yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct si right correcto"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right si yes sir"
+      },
+      {
+        "intent": "negative",
+        "text": "no not good nope"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct no sir wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong its not correct no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir incorrect no"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect no"
+      },
+      {
+        "intent": "negative",
+        "text": "didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir its bad no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "nope im not ok with that"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir its not correct no"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong im not ok with that wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir bad nope"
+      },
+      {
+        "intent": "negative",
+        "text": "nope negative no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "no dont want that negative"
+      },
+      {
+        "intent": "negative",
+        "text": "negative its not correct nope"
+      },
+      {
+        "intent": "negative",
+        "text": "no incorrect negative"
+      },
+      {
+        "intent": "negative",
+        "text": "no not good negative"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong not good for me no"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong ok its not fine"
+      },
+      {
+        "intent": "negative",
+        "text": "no nope please"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir no sir no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "negative not what i want nope"
+      },
+      {
+        "intent": "negative",
+        "text": "its not correct nope"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir its not ok wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "negative not good negative"
+      },
+      {
+        "intent": "negative",
+        "text": "nope not correct wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct not good for me no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "no its not ok negative"
+      },
+      {
+        "intent": "negative",
+        "text": "nope didnt meant that negative"
+      },
+      {
+        "intent": "negative",
+        "text": "negative its bad"
+      },
+      {
+        "intent": "negative",
+        "text": "nope ok its not fine"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect dont mean that no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct incorrect no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong dont desire that no"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong its bad wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "negative wrong not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct dont want that incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "negative negative"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct dont agree on that"
+      },
+      {
+        "intent": "negative",
+        "text": "dont agree on that incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect wrong incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "no negative nope"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong im not ok with that not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "no that is bad"
+      },
+      {
+        "intent": "negative",
+        "text": "not what i want no"
+      },
+      {
+        "intent": "negative",
+        "text": "ok its not fine no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir no sir not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "negative dont want that not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct definitely no no"
+      },
+      {
+        "intent": "negative",
+        "text": "negative wrong negative"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct definitely no not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect not good no"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong not correct wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "nope that is bad nope"
+      },
+      {
+        "intent": "negative",
+        "text": "nope nope please"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir didnt meant that no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "nope wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "its not ok"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong its not correct no"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct its bad not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "im not ok with that no"
+      },
+      {
+        "intent": "negative",
+        "text": "no not what i want negative"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong im not good with that not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir not correct incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect im not ok with that negative"
+      },
+      {
+        "intent": "negative",
+        "text": "im not good with that no"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct not correct not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "negative im not ok with that"
+      },
+      {
+        "intent": "negative",
+        "text": "nope wrong please"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect wrong negative"
+      },
+      {
+        "intent": "negative",
+        "text": "negative not good for me no"
+      },
+      {
+        "intent": "negative",
+        "text": "no incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "not good incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct not what i want incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir nope negative"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong im not good with that negative"
+      },
+      {
+        "intent": "negative",
+        "text": "no sir that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "no im not good with that"
+      },
+      {
+        "intent": "negative",
+        "text": "no incorrect nope"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect dont desire that incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect its not ok negative"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct not correct incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct negative please"
+      },
+      {
+        "intent": "negative",
+        "text": "dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "not good for me wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong its not ok negative"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct negative nope"
+      },
+      {
+        "intent": "negative",
+        "text": "negative not correct no"
+      },
+      {
+        "intent": "negative",
+        "text": "negative dont desire that no"
+      },
+      {
+        "intent": "negative",
+        "text": "negative dont want that negative"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "wrong that is wrong no"
+      },
+      {
+        "intent": "negative",
+        "text": "nope that is wrong nope"
+      },
+      {
+        "intent": "negative",
+        "text": "negative definitely no no"
+      },
+      {
+        "intent": "negative",
+        "text": "not correct im not ok with that no sir"
+      },
+      {
+        "intent": "negative",
+        "text": "no nope wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "im not good with that"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 57,
+            "entity": "program",
+            "start": 44,
+            "value": "herbalife pay"
+          }
+        ],
+        "text": "hello please what is amount owed debit card herbalife pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "program",
+            "start": 35,
+            "value": "herbalife pay"
+          }
+        ],
+        "text": "hello please what is the fees card herbalife pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "program",
+            "start": 23,
+            "value": "nerium"
+          }
+        ],
+        "text": "hi what fee debit card nerium"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "program",
+            "start": 30,
+            "value": "paylution"
+          }
+        ],
+        "text": "hey please what is cost cards paylution"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "program",
+            "start": 33,
+            "value": "myitworks pay"
+          }
+        ],
+        "text": "please amount to pay credit card myitworks pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "program",
+            "start": 14,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "charges cards hyperwallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 61,
+            "entity": "program",
+            "start": 52,
+            "value": "paylution"
+          }
+        ],
+        "text": "greetings please where is it amount owed debit card paylution"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "program",
+            "start": 36,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hey how much is the fees debit card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "program",
+            "start": 21,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "please what fee card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "program",
+            "start": 38,
+            "value": "isawallet"
+          }
+        ],
+        "text": "please what is amount owed debit card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "program",
+            "start": 36,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "hi how much is the cost credit card hyperwallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "program",
+            "start": 29,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "please where is it fee cards hyperwallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "program",
+            "start": 38,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "greetings please what cost debit card hyperwallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 58,
+            "entity": "program",
+            "start": 47,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "greetings please where is it fees prepaid card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 58,
+            "entity": "program",
+            "start": 49,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hello please how much amount to pay prepaid card isawallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "program",
+            "start": 45,
+            "value": "isawallet"
+          }
+        ],
+        "text": "greetings please where is it fees debit card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "program",
+            "start": 34,
+            "value": "myitworks pay"
+          }
+        ],
+        "text": "hey what is the cost prepaid card myitworks pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "program",
+            "start": 36,
+            "value": "paylution"
+          }
+        ],
+        "text": "hi where is it charges prepaid card paylution"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "program",
+            "start": 36,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "please what is the cost credit card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "program",
+            "start": 25,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "where is it charges card rodan and fields program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "program",
+            "start": 33,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hey where is it amount owed card isawallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "program",
+            "start": 40,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hi please what is the cost prepaid card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "program",
+            "start": 33,
+            "value": "paylution"
+          }
+        ],
+        "text": "hi please where is it cost cards paylution"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "program",
+            "start": 34,
+            "value": "myrandf"
+          }
+        ],
+        "text": "please how much amount owed cards myrandf"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "program",
+            "start": 36,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hey what is amount owed credit card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 57,
+            "entity": "program",
+            "start": 50,
+            "value": "myrandf"
+          }
+        ],
+        "text": "greetings please how much is the amount owed card myrandf program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 56,
+            "entity": "program",
+            "start": 40,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hey please where is it amount owed card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "program",
+            "start": 42,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hello please how much amount to pay cards scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "program",
+            "start": 31,
+            "value": "nerium"
+          }
+        ],
+        "text": "please what is cost debit card nerium program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "program",
+            "start": 21,
+            "value": "isawallet"
+          }
+        ],
+        "text": "please charges cards isawallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "program",
+            "start": 30,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "hi please how much fees cards hyperwallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "program",
+            "start": 39,
+            "value": "myrandf"
+          }
+        ],
+        "text": "please how much is the fees debit card myrandf program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 31,
+            "value": "myrandf"
+          }
+        ],
+        "text": "hello please what charges card myrandf program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "program",
+            "start": 43,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hi please what is amount to pay debit card scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "program",
+            "start": 42,
+            "value": "nerium"
+          }
+        ],
+        "text": "greetings please what is fee prepaid card nerium program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "program",
+            "start": 28,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "what amount owed debit card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 57,
+            "entity": "program",
+            "start": 46,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "greetings please what is the fee prepaid card scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 67,
+            "entity": "program",
+            "start": 56,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hello please how much is the amount to pay prepaid card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "program",
+            "start": 23,
+            "value": "myrandf"
+          }
+        ],
+        "text": "please cost debit card myrandf"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "program",
+            "start": 35,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "please what is the fees debit card hyperwallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "program",
+            "start": 36,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "greetings please what is cost cards hyperwallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "program",
+            "start": 26,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "what is the charges cards hyperwallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "program",
+            "start": 24,
+            "value": "nerium"
+          }
+        ],
+        "text": "greetings charges cards nerium program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "program",
+            "start": 30,
+            "value": "nerium"
+          }
+        ],
+        "text": "what amount owed prepaid card nerium"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "program",
+            "start": 33,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "hey what is the fee prepaid card hyperwallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "program",
+            "start": 42,
+            "value": "nerium"
+          }
+        ],
+        "text": "greetings please amount to pay debit card nerium program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 27,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hey please what cost cards scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "program",
+            "start": 21,
+            "value": "nerium"
+          }
+        ],
+        "text": "what is the fee card nerium program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "program",
+            "start": 47,
+            "value": "nerium"
+          }
+        ],
+        "text": "greetings please what is the amount owed cards nerium program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "program",
+            "start": 33,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "what is amount owed prepaid card rodan and fields program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "program",
+            "start": 33,
+            "value": "myitworks pay"
+          }
+        ],
+        "text": "please how much cost credit card myitworks pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "program",
+            "start": 38,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hello please what is fees credit card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "program",
+            "start": 31,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hey where is it fee debit card isawallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 64,
+            "entity": "program",
+            "start": 48,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hello please how much is the charges debit card rodan and fields program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "program",
+            "start": 37,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hi how much is the fees prepaid card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "program",
+            "start": 43,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "hello where is it amount to pay debit card hyperwallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "program",
+            "start": 18,
+            "value": "isawallet"
+          }
+        ],
+        "text": "fees prepaid card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "program",
+            "start": 36,
+            "value": "myrandf"
+          }
+        ],
+        "text": "hi please how much is the fee cards myrandf"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "program",
+            "start": 21,
+            "value": "isawallet"
+          }
+        ],
+        "text": "what fee credit card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 58,
+            "entity": "program",
+            "start": 42,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hey where is it amount to pay credit card rodan and fields program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "program",
+            "start": 37,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hi how much is the fees prepaid card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "program",
+            "start": 28,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "greetings what is fees card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "program",
+            "start": 38,
+            "value": "myrandf"
+          }
+        ],
+        "text": "hello please what is cost credit card myrandf"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "program",
+            "start": 23,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hey how much fees card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 50,
+            "entity": "program",
+            "start": 37,
+            "value": "herbalife pay"
+          }
+        ],
+        "text": "hey how much amount owed credit card herbalife pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "program",
+            "start": 43,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "greetings please how much cost credit card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 27,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hey what amount owed cards scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "program",
+            "start": 39,
+            "value": "myrandf"
+          }
+        ],
+        "text": "greetings please how much charges card myrandf program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 56,
+            "entity": "program",
+            "start": 45,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hello where is it amount to pay prepaid card scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "program",
+            "start": 36,
+            "value": "paylution"
+          }
+        ],
+        "text": "how much is the amount to pay cards paylution"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 29,
+            "value": "paylution"
+          }
+        ],
+        "text": "hey what is fee prepaid card paylution program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "program",
+            "start": 33,
+            "value": "nerium"
+          }
+        ],
+        "text": "hello how much amount owed cards nerium"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "program",
+            "start": 25,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "hi where is it cost card hyperwallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "program",
+            "start": 22,
+            "value": "myrandf"
+          }
+        ],
+        "text": "please what cost card myrandf"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 29,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hey how much fees debit card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "program",
+            "start": 26,
+            "value": "herbalife pay"
+          }
+        ],
+        "text": "greetings cost debit card herbalife pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "program",
+            "start": 29,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hi how much is the fees card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "program",
+            "start": 9,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "fee card scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "program",
+            "start": 31,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "greetings what cost debit card scentsy pay"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "program",
+            "start": 42,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hi please where is it charges credit card isawallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "program",
+            "start": 29,
+            "value": "myrandf"
+          }
+        ],
+        "text": "hi please what is cost cards myrandf program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "program",
+            "start": 28,
+            "value": "myrandf"
+          }
+        ],
+        "text": "what is charges credit card myrandf"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "program",
+            "start": 39,
+            "value": "myrandf"
+          }
+        ],
+        "text": "hello where is it charges prepaid card myrandf"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "program",
+            "start": 36,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hi please how much is the fees card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "program",
+            "start": 41,
+            "value": "myrandf"
+          }
+        ],
+        "text": "greetings where is it charges debit card myrandf program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 29,
+            "value": "isawallet"
+          }
+        ],
+        "text": "what is the fees credit card isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "program",
+            "start": 34,
+            "value": "isawallet"
+          }
+        ],
+        "text": "hey how much is the charges cards isawallet program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "program",
+            "start": 29,
+            "value": "hyperwallet"
+          }
+        ],
+        "text": "hello where is it fees cards hyperwallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "program",
+            "start": 30,
+            "value": "nerium"
+          }
+        ],
+        "text": "hi where is it fee debit card nerium"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "program",
+            "start": 35,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "greetings please how much fee card rodan and fields program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 29,
+            "value": "isawallet"
+          }
+        ],
+        "text": "greetings what charges cards isawallet"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "program",
+            "start": 29,
+            "value": "nerium"
+          }
+        ],
+        "text": "what is charges prepaid card nerium"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "program",
+            "start": 28,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hello please fee debit card rodan and fields program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "program",
+            "start": 35,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "greetings what amount to pay cards rodan and fields program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "program",
+            "start": 29,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hi how much is the fee cards scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "program",
+            "start": 29,
+            "value": "paylution"
+          }
+        ],
+        "text": "hi please what is fees cards paylution"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "program",
+            "start": 36,
+            "value": "rodan and fields"
+          }
+        ],
+        "text": "hello what amount to pay debit card rodan and fields"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "program",
+            "start": 22,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "hello please fee card scentsy pay program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "program",
+            "start": 38,
+            "value": "nerium"
+          }
+        ],
+        "text": "greetings what amount owed debit card nerium program"
+      },
+      {
+        "intent": "find_fees",
+        "entities": [
+          {
+            "end": 60,
+            "entity": "program",
+            "start": 49,
+            "value": "scentsy pay"
+          }
+        ],
+        "text": "greetings please what is the amount to pay cards scentsy pay program"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
